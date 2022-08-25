@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"model"
+	"github.com/Yurai-Kitadate/go_impl/src/model"
 
 	"github.com/jmoiron/sqlx"
 )
